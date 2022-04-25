@@ -1,0 +1,13 @@
+current directory: /Users/sysbiozadmin/Desktop/alloy_sdk/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+/Users/sysbiozadmin/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/sysbiozadmin/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20220420-91027-8ehi8g.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sysbiozadmin/Desktop/alloy_sdk/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/sysbiozadmin/Desktop/alloy_sdk/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/sysbiozadmin/Desktop/alloy_sdk/vendor/bundle/ruby/3.0.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
