@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors = ["Viral Ruparel"]
   spec.email = ["viral@runalloy.com"]
 
-  spec.summary = "Run Alloy workflows from a python server."
+  spec.summary = "Run Alloy workflows from a ruby server."
   spec.homepage = "https://github.com/alloy-automation/alloy-ruby"
   spec.required_ruby_version = ">= 2.6.0"
 
